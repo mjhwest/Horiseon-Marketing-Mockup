@@ -160,18 +160,18 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.search-engine-optimization img {
+/* Consolidated images to make format better */
+.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
-
-.online-reputation-management img {
+/* Consolidated the below selectors to line 164 */
+/* .online-reputation-management img {
     max-height: 200px;
 }
 
 .social-media-marketing img {
     max-height: 200px;
-}
+} */
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
