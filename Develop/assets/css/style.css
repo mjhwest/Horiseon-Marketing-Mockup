@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/* this means the background color for the body section is white - specifically #d9dcd6 */
 body {
     background-color: #d9dcd6;
 }
@@ -15,6 +15,7 @@ body {
     color: #ffffff;
 }
 
+/* anything with the class="header h1" will have the same display and font size */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -46,6 +47,7 @@ a {
     text-decoration: none;
 }
 
+/* any text on the webpage within the <p> </p> will have the same font-size of 16px */
 p {
     font-size: 16px;
 }
@@ -75,6 +77,7 @@ p {
     margin-left: 20px;
 }
 
+/* everything that is within <div class= "benefits"> to </div> will have the same css attirubutesd, as listed below */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -206,6 +209,7 @@ p {
     font-size: 36px;
 } */
 
+/* everything in <div class="footer"> to </div> will have the same CSS elements applied */
 .footer {
     padding: 30px;
     clear: both;
@@ -213,6 +217,7 @@ p {
     text-align: center;
 }
 
+/* the text with <h2> </h2> in the footer class will be font-size:20px*/
 .footer h2 {
     font-size: 20px;
 }
